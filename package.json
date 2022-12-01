@@ -1,0 +1,23 @@
+{
+  "name": "blockchain-basics",
+  "version": "1.0.0",
+  "description": "Blockchain, Solidity, Javascript, Remix IDE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sid-shnkar/Blockchain-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sid-shnkar/Blockchain-basics/issues"
+  },
+  "homepage": "https://github.com/sid-shnkar/Blockchain-basics#readme",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
